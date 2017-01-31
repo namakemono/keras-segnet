@@ -1,6 +1,9 @@
 # keras-segnet
 SegNet model for Keras.
 
+### The original articles
+- SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(https://arxiv.org/pdf/1511.00561v2.pdf)
+
 ## Examples
 
 ### Train images
